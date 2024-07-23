@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692866400661",
+    "project_id": "cleanarcproject",
+    "storage_bucket": "cleanarcproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692866400661:android:76027705de06dd2e78769c",
+        "android_client_info": {
+          "package_name": "com.example.cleanarcproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNif77W5W1nUV-1c2E06u67OAJTYSXsEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
